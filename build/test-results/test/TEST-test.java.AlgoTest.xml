@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.java.AlgoTest" tests="24" skipped="0" failures="0" errors="0" timestamp="2018-10-22T21:51:21" hostname="adityas-mbp-2.mobile.asu.edu" time="0.019">
+  <properties/>
+  <testcase name="selectionSortOverAll" classname="test.java.AlgoTest" time="0.004"/>
+  <testcase name="mergeSortException" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="heapSortOverAll" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="quickSortException" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="selectionSortException" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="bubbleSortOverAll" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="quickSortSortedInput" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="heapSortSortedInput" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="quickSortSingleInput" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="heapSortSingleInput" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="heapSortException" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="selectionSortSortedInput" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="insertionSortSortedInput" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="quickSortOverAll" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="sinsertionSortException" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="selectionSortSingleInput" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="insertionSortSingleInput" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="bubbleSortException" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="bubbleSortSortedInput" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="mergeSortSortedInput" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="bubbleSortSingleInput" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="insertionSortOverAll" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="mergeSortSingleInput" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="mergeSortOverAll" classname="test.java.AlgoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
