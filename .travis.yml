@@ -1,1 +1,7 @@
-language : java
+language: java
+os: osx
+
+install: gradle assemble
+script: gradle check
+
+
