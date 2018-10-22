@@ -11,7 +11,7 @@ import main.java.SortAlgos;
 public class AlgoTest {
 
 	Item[] sortedVec = new Item[]{new Item(1),new Item(2),new Item(3),new Item(4),new Item(5)};
-	// this test case is for Node Coverage test case 1 and Edge Coverage test case 1
+	// this test case is for Node Coverage test case 1 and Edge Coverage test case 1 - covers both
 	@SuppressWarnings("static-access")
 	@Test
 	public void bubbleSortOverAll() {
